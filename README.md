@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Parul Parbhakar!
 
 > 🧰 `nutter-toolbox` · he/him  
-> 🧑‍💻 Passionate about **Web Development** & **React Native App Development**
+> 🚀 Learning advancements to elevate my journey as a Developer
 
 ---
 
@@ -18,54 +18,37 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
-- React.js, Next.js, SvelteKit, HTML, CSS, Tailwind, Material UI, Shadcn/UI
-
-**Mobile:**
-- React Native, Expo, TypeScript
-
-**Backend:**
-- Node.js, Express.js, Flask, Sequelize, MongoDB, MySQL, REST APIs
-
-**Other Tools:**
-- Git, VS Code, Postman, Stripe, Multer, GridFS
+- **Languages:** Python, JavaScript, TypeScript, HTML/CSS
+- **Frontend:** React.js, Next.js, SvelteKit, React Native, Expo
+- **Backend:** Node.js, Express.js, Flask, Sequelize, MongoDB, MySQL
+- **Tools:** OpenCV, Kivy, Socket.IO, PyAutoGUI, PyWhatKit, Stripe
+- **Others:** Git, Postman, Multer, Shadcn/UI, GridFS, REST APIs
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 **React Native & Mobile Development**
-- 📲 [**Simple React Native App with Backend**](https://github.com/nutter-toolbox/Simple-ReactNative-App-with-Backend)  
-  A basic React Native + Express app with backend integration and API support.
+### 🧠 **AI & Computer Vision**
+- 🏓 [**PingPong Game**](https://github.com/nutter-toolbox/PingPong-Game-using-computer-vision) — Control a ping-pong paddle using hand gestures.
+- 🔊 [**Volume Control App**](https://github.com/nutter-toolbox/Volume-Control-Using-Computer-Vision) — Adjust volume with your fingers.
+- 🧰 [**Computer Vision Tools**](https://github.com/nutter-toolbox/Computer-Vision-tools) — Toolkit for face, body, and hand detection.
+- 🔍 [**Instagram Tools**](https://github.com/nutter-toolbox/Instagram-instaloader-tools) — Analyze followers, likes, and post engagement.
 
-- 📱 [**Expo iOS Practice App**](https://github.com/nutter-toolbox/expo-app-iphone-practice)  
-  Practice app for React Native iOS development using Expo and TypeScript.
+### 🌐 **Web Development**
+- 🛍️ [**Optics Shop (Next.js)**](https://github.com/nutter-toolbox/Optics-shop)
+- 🍽️ [**MERN Food Ordering App**](https://github.com/nutter-toolbox/MERN-Food-ordering-App-FRONTEND) | [Backend](https://github.com/nutter-toolbox/MERN-Food-ordering-App-BACKEND)
+- 📦 [**Point of Sale System**](https://github.com/nutter-toolbox/Point-of-sale-system-using-React.js)
+- 🛒 [**Grocery Store (Flask)**](https://github.com/nutter-toolbox/Grocery-Store-Using-flask)
 
----
+### 📱 **Mobile Development**
+- 📱 [**Expo iOS Practice App**](https://github.com/nutter-toolbox/expo-app-iphone-practice)
+- 🔗 [**Simple React Native App with Backend**](https://github.com/nutter-toolbox/Simple-ReactNative-App-with-Backend)
 
-### 🌐 **Full Stack Web Apps**
-- 🛒 [**Optics Shop (Next.js)**](https://github.com/nutter-toolbox/Optics-shop)  
-  A modern e-commerce web app with Material UI and Emotion styling.
-
-- 🍔 [**MERN Food Ordering App**](https://github.com/nutter-toolbox/MERN-Food-ordering-App-FRONTEND)  
-  Food ordering app built with React, Node.js, Stripe payments, and more.  
-  ➕ [Backend](https://github.com/nutter-toolbox/MERN-Food-ordering-App-BACKEND)
-
-- 🧾 [**Point of Sale System**](https://github.com/nutter-toolbox/Point-of-sale-system-using-React.js)  
-  POS system to manage product sales and orders using React.js.
-
-- 🛍️ [**Grocery Store (Flask)**](https://github.com/nutter-toolbox/Grocery-Store-Using-flask)  
-  A web-based product inventory manager using Python Flask.
-
-- 🧱 [**Next.js App with Sequelize & MySQL**](https://github.com/nutter-toolbox/Next-js-app-with-sequlize-Mysql-Backend)  
-  Full-stack app demonstrating Sequelize ORM with a MySQL backend.
-
----
-
-### 🧪 **UI Framework Practice Repos**
-- 🧪 [**SvelteKit Practice**](https://github.com/nutter-toolbox/svelte-kit-practice)  
-- 🧪 [**Svelte Practice Repo**](https://github.com/nutter-toolbox/Svelte-practice-repo)  
-- 🧪 [**Node.js Backend Config**](https://github.com/nutter-toolbox/Node-js-Backend-Configuration)
+### 🧩 **Utilities & Fun Projects**
+- 🧭 [**IP Geolocation App**](https://github.com/nutter-toolbox/flask-ip-geolocation)
+- ⌨️ [**WPM Calculator**](https://github.com/nutter-toolbox/wpm-calculator)
+- 📲 [**URL to QR Code Generator**](https://github.com/nutter-toolbox/URL_TO_QR-Code-Generator)
+- 📤 [**WhatsApp Automation Tool**](https://github.com/nutter-toolbox/Robust_message_whatsapp)
 
 ---
 
@@ -79,16 +62,8 @@
 
 ---
 
-## 💡 Currently Exploring
+## 💡 Fun Fact
 
-- 📱 Advanced **React Native animations**
-- 🌐 **Backend APIs** with authentication & payments
-- 🛠️ **CI/CD** and performance optimization in production-ready web apps
+> "The best way to predict the future is to invent it." — Alan Kay
 
----
-
-## 💬 Fun Fact
-
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
-
-Thanks for stopping by! Feel free to check out my projects or connect with me on socials 🚀
+Thanks for visiting! I’m always building, learning, and leveling up — let’s connect 🚀
