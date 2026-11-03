@@ -137,20 +137,8 @@ Working on full-stack application development and software solutions.
 
 GNA University | 2020–2024
 
----
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nutter-toolbox&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nutter-toolbox&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nutter-toolbox&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 💡 A Little About Me
 
